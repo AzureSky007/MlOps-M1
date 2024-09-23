@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is for main branch
+=======
+New line for new branch
+>>>>>>> new-branch
